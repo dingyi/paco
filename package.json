@@ -16,7 +16,7 @@
     "dom-to-image": "^2.6.0",
     "intersection-observer": "^0.7.0",
     "marked": "^0.7.0",
-    "next": "^9.1.4",
+    "next": "^9.1.7-canary.2",
     "prismjs": "^1.17.1",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
