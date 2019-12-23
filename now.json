@@ -1,7 +1,0 @@
-{
-  "version": 2,
-  "env": {
-    "api_key": "@cl_api_key",
-    "api_secret": "@cl_api_secret"
-  }
-}
